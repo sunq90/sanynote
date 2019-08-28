@@ -29,7 +29,7 @@
 
 ### 生成小程序二维码
 
-#### [扫码进入首页](http://cli.im/mina/qrcode/?tpl_id=23879&time=1566895535&publickey=4fbe1862abbfd829d92155157ed1454a)
+#### [扫码后进入首页](http://cli.im/mina/qrcode/?tpl_id=23879&time=1566895535&publickey=4fbe1862abbfd829d92155157ed1454a)
 
 媒介（edium）：传播媒介，如朋友圈海报、行业网站海报、线下物料
 
@@ -37,13 +37,13 @@
 
 时间（time）：创建时间，用于区分同一活动不同时间发布的相同媒介物料，如190328
 
-#### [扫码进入动态详情](http://cli.im/mina/qrcode/?tpl_id=23880&time=1566895573&publickey=412870c37a87cf8baa269618adde8133)
+#### [扫码后进入动态详情](http://cli.im/mina/qrcode/?tpl_id=23880&time=1566895573&publickey=412870c37a87cf8baa269618adde8133)
 
 动态ID（scene=id）：动态详情的ID号，可以在小程序后端管理面板查看
 
 其他字段与进入首页的解释一致
 
-#### [扫码进入话题详情](http://cli.im/mina/qrcode/?tpl_id=24590&time=1566895589&publickey=5425f2f1a4b3a80104bcde17f352ec04)
+#### [扫码后进入话题详情](http://cli.im/mina/qrcode/?tpl_id=24590&time=1566895589&publickey=5425f2f1a4b3a80104bcde17f352ec04)
 
 话题ID（hid）：话题ID号，可以在小程序后台管理中查看
 
