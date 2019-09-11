@@ -12,8 +12,14 @@
 
 [生成单参数的二维码](https://github.com/sunq90/sanynote/blob/master/general/mdQR.md)：这里包括了网址二维码和微信小程序二维码，不包含微信公众号二维码的说明。
 
-### Wechat后台
+### 微信公众号
 
-#### 活动
+
+
+### 小程序社群（三一发发）
+
+
+
+### 活动功能
 
 [投票功能使用说明](https://github.com/sunq90/sanynote/blob/master/wechat/vote.md)
