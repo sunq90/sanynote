@@ -10,11 +10,12 @@
 
 ### 1.通用功能
 
-[生成单参数的二维码](https://github.com/sunq90/sanynote/blob/master/general/mdQR.md)：这里包括了网址二维码和微信小程序二维码，不包含微信公众号二维码的说明。
+* [生成单参数的二维码](https://github.com/sunq90/sanynote/blob/master/general/mdQR.md)：这里包括了网址二维码和微信小程序二维码，不包含微信公众号二维码的说明。
 
 ### 2.微信公众号
 
-[设置自定义菜单](https://github.com/sunq90/sanynote/blob/master/wechat/wechatcaidan.md)
+* [设置自定义菜单](https://github.com/sunq90/sanynote/blob/master/wechat/wechatcaidan.md)
+* [设置自动回复](https://github.com/sunq90/sanynote/blob/master/wechat/wechathuifu.md)
 
 ### 3.小程序社群（三一发发）
 
@@ -22,4 +23,4 @@
 
 ### 4.活动功能
 
-[投票功能使用说明](https://github.com/sunq90/sanynote/blob/master/wechat/vote.md)
+* [投票功能使用说明](https://github.com/sunq90/sanynote/blob/master/wechat/vote.md)
