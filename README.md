@@ -2,10 +2,6 @@
 
 记录一些功能的说明和一些可以分享给你们的作品
 
-## 组件库
-
- 三一重工移动端组件库 for Axure [[组件演示]](https://github.com/sunq90/SANYMobileLibrary4Axure) [[组件下载]](https://axhub.im/pro/e5442b4ced54fd11)
-
 ## 说明文档
 
 ### 1.通用功能
@@ -24,3 +20,7 @@
 ### 4.活动功能
 
 * [投票功能使用说明](https://github.com/sunq90/sanynote/blob/master/wechat/vote.md)
+
+## 组件库
+
+ 三一重工移动端组件库 for Axure [[组件演示]](https://github.com/sunq90/SANYMobileLibrary4Axure) [[组件下载]](https://axhub.im/pro/e5442b4ced54fd11)
