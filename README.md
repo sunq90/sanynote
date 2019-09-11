@@ -14,7 +14,7 @@
 
 ### 微信公众号
 
-
+[设置自定义菜单](https://github.com/sunq90/sanynote/blob/master/wechat/wechatcaidan.md)
 
 ### 小程序社群（三一发发）
 
