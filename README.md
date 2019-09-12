@@ -7,6 +7,7 @@
 ### 1.1.通用功能
 
 * [生成单参数的二维码](https://github.com/sunq90/sanynote/blob/master/general/mdQR.md)：这里包括了网址二维码和微信小程序二维码，不包含微信公众号二维码的说明。
+* [通过禅道提需求](https://github.com/sunq90/sanynote/blob/master/zentao/tixuqiu.md)：如何通过禅道提出需求和改进建议；
 
 ### 1.2.微信公众号
 
