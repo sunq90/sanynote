@@ -16,7 +16,7 @@
 
 ### 1.3.小程序社群（三一发发）
 
-
+- [三一发发路径说明](https://github.com/sunq90/sanynote/blob/master/general/fafa_analytics.md)
 
 ### 1.4.活动功能
 
